@@ -1,2 +1,2 @@
 # banglishChecker
-banglish spell checker
+banglish spell checker : https://banglishspellchecker.herokuapp.com/
