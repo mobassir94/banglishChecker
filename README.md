@@ -1,2 +1,2 @@
-# banglishChecker
-banglish spell checker : https://banglishspellchecker.herokuapp.com/
+# banglishsentencechecker
+Banglish sentence corrector
